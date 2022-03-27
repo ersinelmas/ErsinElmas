@@ -7,7 +7,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="40" height="40"/>
 📫 How to reach me: ersinelmas17@gmail.com
 <!--
 **ErsinElmas/ErsinElmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
