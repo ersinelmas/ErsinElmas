@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ersin 👋</h1>
+<h2 align="center">Hi there, I'm Ersin 👋</h2>
 
 --------------------------
 
@@ -7,9 +7,6 @@
 --------------------------
 
 <h3 align="left">Languages and Tools:</h3>
-
---------------------------
-
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
@@ -20,6 +17,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
 </p>
 <br>
+
+--------------------------
+
 📫 How to reach me: ersinelmas17@gmail.com
 <!--
 **ErsinElmas/ErsinElmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
