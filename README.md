@@ -1,5 +1,4 @@
- [![HitCount](https://hits.dwyl.com/ersinelmas/ErsinElmas.svg?style=flat-square)](http://hits.dwyl.com/ersinelmas/ErsinElmas)
- [![HitCount](https://hits.dwyl.com/ersinelmas/ErsinElmas.svg?style=flat-square&show=unique)](http://hits.dwyl.com/ersinelmas/ErsinElmas)
+![](https://komarev.com/ghpvc/?username=ersin-elmas)
 <h1 align="center">Hello there 👋</h1>
 
 --------------------------
