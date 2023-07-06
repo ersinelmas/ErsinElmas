@@ -3,7 +3,7 @@
 
 --------------------------
 
-<h3 align="center">I am a Student at Ege University Computer Engineering Department</h3>
+<h3 align="center">I am a Fresh Graduate Software Engineer</h3>
 
 --------------------------
 
