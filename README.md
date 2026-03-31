@@ -1,5 +1,4 @@
 # 👨‍💻 About Me
-🌱 I’m currently working on a digital life assistant project  
 💼 Focused on full-stack development with Java, .NET, and modern web technologies  
 🚀 Passionate about building scalable enterprise applications
 
@@ -37,9 +36,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ersinelmas&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ersinelmas&icon=5&color=0)](https://visitcount.itsvg.in)
